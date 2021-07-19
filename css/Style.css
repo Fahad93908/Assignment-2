@@ -1,0 +1,362 @@
+.table{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.one{
+    background-color: yellow;
+    color: red;
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.two{
+    background-color: red;
+    color: yellow;
+    text-transform: capitalize;
+    font-size: 30px;
+    text-align: center;
+}
+.three{
+    background-color: rgb(0, 85, 0);
+    color: cyan;
+    text-transform: capitalize;
+    font-size: 30px;
+    text-align: center;
+
+}
+.images{
+    background-color:rgb(0, 85, 0);
+}
+.four{
+    background-color: royalblue;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.five{
+    background-color: turquoise;
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.five-ol{
+    background-color: turquoise;
+    color: red;
+    font-size: 30px;
+    
+}
+.six{
+    background-color: rgb(255, 255, 0);
+    color: rgb(255, 14, 215);
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.seven{
+    background-color: rgb(184, 39, 184);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.eight{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.address{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.name:hover{
+    color: yellow;
+}
+.yellow{
+    color: yellow;
+}
+.red{
+    color: white;
+}
+.a{
+    color: burlywood;
+}
+.b{
+    color: cyan;
+}
+.c{
+    color: darkorange;
+}
+.d{
+    color: deepskyblue;
+}
+.nine{
+    background-color: rgb(16, 30, 219);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+.ten{
+    background-color: gray;
+    color: rgb(0, 255, 136);
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align:center;
+}
+.eleven{
+    background-color: rebeccapurple;
+    color: rgb(195, 245, 13);
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+.tweleve{
+    background-color:#FCD8D4;
+    color: #FF3D68;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 30px;
+}
+
+.thirteen{
+    background-color: #FF8882;
+    color: rgb(203, 255, 14);
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+
+
+}
+.button{
+    background-color: rgb(186, 224, 12);
+    color: rgb(255, 14, 215);
+    border: 3px solid royalblue;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 30px;
+    margin:10px;
+}
+.button:hover{
+    color:yellow ;
+    background-color: red;
+}
+.fourteen{
+    background-color: #312C51;
+    color: #F1AA9B;
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+
+}
+.fifteen{
+    background-color:#FF7B54 ;
+    color: aqua;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.sixteen{
+    background-color: aqua;
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+
+
+}
+.seventeen{
+    background-color: #2541B2;
+    color: #1edcfd;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+.eighteen{
+    background-color: #380e0e;
+    color: #FF449F;
+    font-size:30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.nineteen{
+    background-color: #0b3a77;
+    color: #f69898;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.input1{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 10px;
+    color: rgb(207, 22, 22);
+
+}
+.input2{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 10px;
+    color: rgb(207, 22, 22);;
+
+}
+.button1{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    margin-left: 182px;
+    margin-bottom: 17px;
+    border: 2px solid;
+    border-radius: 4px;
+    color: red;
+
+}
+.button1:hover{
+    background-color:yellow;
+    color: blue;
+}
+.twenty{
+    background-color:#5c0f66 ;
+    color:#fa086d;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+.twenty-one{
+    background-color: rgb(70, 18, 119);
+    color: rgb(243, 20, 224);
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+.twenty-two{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    background-color:#670c74;
+    color: #ECA3F5;
+}
+.twenty-three{
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color:#0b4249 ;
+    color: #51C4D3;
+}
+.twinkle{
+    font-size: 30px;
+   
+    background-color: #34053a;
+    color: #de12f5;
+}
+.pre{
+    margin-left: -306px;
+
+}
+
+.twenty-four{
+    font-size: 30px;
+    text-align:center;
+    text-transform: capitalize;
+    background-color:#281e69 ;
+    color: #a095e9;
+}
+.twenty-five{
+    font-size:30px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: rgb(30, 120, 156);
+    color: skyblue;
+}
+.twenty-six{
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: rgb(12, 92, 52);
+    color: springgreen;
+}
+
+.twenty-seven{
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: rgb(143, 41, 23);
+    color: rgb(230, 145, 130);
+}
+.twenty-eight{
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: rgb(108, 131, 24);
+    color: rgb(203, 255, 14);
+}
+.twenty-nine{
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: rgba(116, 96, 17, 0.671);
+    color: rgb(231, 209, 120);
+}
+.thirty{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    background-color: rgb(1, 116, 116);
+    color: cyan;
+}
+.thirty-one{
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: darkblue;
+    color: rgb(167, 167, 253);
+}
+.thirty-two{
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: #6e1226;
+    color: #FF3D68;
+}
+.thirty-three{
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: #b1fb3a;
+    color: #FF449F;
+}
+.thirty-four{
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: rgb(42, 133, 133);
+    color: rgb(10, 246, 246);
+}
+.thirty-five{
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    background-color: blueviolet;
+    color: rgb(229, 227, 230);
+}
+.thirty-six{
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: crimson;
+    color: yellow;
+}
